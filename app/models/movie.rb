@@ -1,3 +1,3 @@
 class Movie < ApplicationRecord
-  belongs_to :directors
+  belongs_to :director
 end
